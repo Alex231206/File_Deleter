@@ -1,0 +1,4 @@
+This is a file deleting program. It sends all files which size exceeds number written by user (in Megabytes) in the folder specified by user and in all its subfolders to trash. History of requests is stored at D:\Самообразование\IT\Python\Собственные проекты\Deleting useless files\history_of_requests.txt
+Program commands list:
+	1) 0 - quit currently working program;
+	2) 1 - continue currently working program.
